@@ -1,0 +1,28 @@
+{
+    "version": "0.0.1",
+    "name": "popup-directive",
+    "author": "Dev Team Inc. <contact@dev-team.com> (http://dev-team.com)",
+    "description": "AngularJS popup directive",
+    "main": "./index.js",
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-concat": "^2.6.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-sourcemaps": "^1.6.0",
+        "gulp-uglify": "^1.5.3",
+        "rimraf": "^2.5.3"
+    },
+    "keywords": [
+        "angualrJS",
+        "popup",
+        "directive"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevTeamHub/popup-directive"
+    },
+    "bugs": {
+        "url": "https://github.com/DevTeamHub/popup-directive/issues"
+    },
+    "homepage": "https://github.com/DevTeamHub/popup-directive#readme"
+}
